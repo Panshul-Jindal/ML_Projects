@@ -5,6 +5,7 @@
 Beer
 Whiskey
 Wine
+```
 if Alchohol Content > 8.50:
   if Alchohol Content > 25.75:
     Predict: Whiskey 
@@ -12,7 +13,7 @@ if Alchohol Content > 8.50:
     Predict: Wine 
 else:  # Alchohol Content <= 8.50
   Predict: Beer 
-
+```
 # On Iris Dataset (max_depth =40)
 
 Accuracy : = 0.7333333333333333
