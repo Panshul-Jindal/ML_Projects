@@ -17,7 +17,7 @@ else:  # Alchohol Content <= 8.50
 # On Iris Dataset (max_depth =40)
 
 Accuracy : = 0.7333333333333333
-
+```
 if petal length > 2.45:
   if petal length > 4.95:
     if petal width > 1.75:
@@ -37,3 +37,4 @@ if petal length > 2.45:
         Predict: Iris versicolor 
 else:  # petal length <= 2.45
   Predict: Iris setosa 
+```
